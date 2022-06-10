@@ -1,2 +1,2 @@
-# Pelota-S-ncrona-2P
-Movimiento de pelota con base de datos en tiempo real.
+# Movimiento sincrónico de la pelota
+Pelota en movimiento sincrónico
